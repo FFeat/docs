@@ -7,3 +7,6 @@
 Docker 正在逐渐成为容器行业的事实标准，受到 Windows 和 Linux 生态系统领域最重要供应商的支持。 （Microsoft 是支持 Docker 的主要云供应商之一。）将来，Docker 可能会在云端或本地的任何数据中心普及。
 
 此外，microservices（微服务）体系结构兴起，成为分布式任务关键型应用程序的重要方法。 在基于微服务的体系结构中，应用程序在可独立开发、测试、部署和版本控制的一系列服务上生成。
+
+---
+本文整理自微软官方文档[.NET 微服务：适用于容器化 .NET 应用程序的体系结构](https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/)
