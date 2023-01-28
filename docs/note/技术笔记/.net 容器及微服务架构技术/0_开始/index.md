@@ -1,5 +1,7 @@
 # .NET 微服务 - 体系结构
 
+!> 仅供参考
+
 ## 介绍
 
 企业通过使用容器，日益实现成本节约、解决部署问题并改进 DevOps 和生产操作。 通过创建 Azure Kubernetes 服务、Azure Service Fabric 等产品，同时与 Docker、Mesosphere 和 Kubernetes 等行业领先者合作，Microsoft 一直在推出适用于 Windows 和 Linux 的容器创新。 这些产品提供容器解决方案，可帮助公司以云的速度和规模生成并部署应用程序，而无需考虑其选用的平台或工具。
