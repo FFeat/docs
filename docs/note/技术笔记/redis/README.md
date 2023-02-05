@@ -1,0 +1,6 @@
+- [返回上一级 [技术笔记]](技术笔记/)
+- [redis](技术笔记/redis/)
+  - [Redis简介](/技术笔记/redis/1_Redis简介/index.md)
+  - [Redis安装](/技术笔记/redis/2_Redis安装/index.md)
+  - [基本教程](/技术笔记/redis/3_基本教程/index.md)
+  - [数据类型](/技术笔记/redis/4_数据类型/index.md)
